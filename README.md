@@ -17,7 +17,7 @@ It exposes CRUD endpoints for `Gig` resources and demonstrates clean separation 
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/Awanmabur/gigs-api-clean.git
+git clone https://github.com/Awanmabur/gigs_api_clean.git
 cd gigs-api-clean
 
 cp .env.example .env   # or copy via your OS
